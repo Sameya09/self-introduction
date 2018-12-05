@@ -1,0 +1,9 @@
+body {
+    background-color: #ff9900;
+    color: #003399;
+}
+table, td, th {
+    border: solid 1px gray;
+    background-color: #003399;
+    color: #ff9900;
+}
